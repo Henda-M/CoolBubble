@@ -1,0 +1,11 @@
+# build output
+build/
+coolbubble
+make.local
+
+# python
+__pycache__/
+*.pyc
+
+# simulation output
+Sim*_D_*/
